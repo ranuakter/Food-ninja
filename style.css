@@ -1,0 +1,19 @@
+body{
+font-family: 'Gideon Roman', cursive;
+font-family: 'Quintessential', cursive;
+font-family: 'Supermercado One', cursive;
+margin: 0;
+}
+nav p{
+    text-align: center;
+    color: rgb(92, 18, 161);
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+.Food-ninja{
+    display: flex;
+}
