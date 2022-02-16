@@ -48,11 +48,30 @@ h2{
     border-radius:20px ;
     box-sizing: 2px;
     margin-left:5%;
-    margin-right:2% ;
+    margin-right:2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
     padding:2%;
+    
 }
 .cart img{
-width:90%;
-border-radius: 10px;
+width:90% ;
+border-radius:10px;
 padding: 4%;
+}
+.Discrption{
+    box-shadow: 20px 20px 40px;
+    border-radius: 20px;
+    box-sizing: 2px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 100px;
+}
+.half-width{
+    width
+}
+footer{
+    text-align: center;
+    background-color:green;
+    color:white;
 }
